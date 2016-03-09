@@ -1,6 +1,6 @@
 class Main {
 	public static void main(String[] args) {
-		int pi = 3;
+		float pi = 3.141;
 		System.out.println("Pi is equal to " + pi + ". Everyone knows that.");
 	}
 	//Andrew Turley was here

@@ -9,7 +9,7 @@ class Main {
 		return values;
 	}
 	
-	public static void main(String[] args) {u
+	public static void main(String[] args) {
 		float pi = 3.14159;
 		System.out.println("This is a line");
 		System.out.println("Pi is equal to " + pi + ". Everyone knows that.");
